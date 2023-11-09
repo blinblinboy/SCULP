@@ -1,0 +1,18 @@
+const contentElement = document.getElementById('content');
+
+const btnFoco = document.getElementById('btn-foco');
+const btnCurto = document.getElementById('btn-curto');
+const btnLongo = document.getElementById('btn-longo');
+
+
+btnFoco.addEventListener('click', () => {
+    contentElement.style.backgroundColor = 'lightblue'; 
+});
+
+btnCurto.addEventListener('click', () => {
+    contentElement.style.backgroundColor = 'lightgreen'; 
+});
+
+btnLongo.addEventListener('click', () => {
+    contentElement.style.backgroundColor = 'lightcoral'; 
+});
