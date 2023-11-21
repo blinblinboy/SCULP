@@ -238,9 +238,11 @@ img {
     transition: background-color 0.3s ease;
 }
 
+/* botão Elisa */
+
 #button1 {
     background-color: #3498db;
-}
+} 
 
 #button2 {
     background-color: #e74c3c;
@@ -248,6 +250,30 @@ img {
 
 #button3 {
     background-color: #2ecc71;
+}
+
+/* botão RHUAN */
+
+#button5 {
+  background-color: #e6ff03;
+} 
+
+#button6 {
+  background-color: #e74c3c;
+}
+
+#button7 {
+  background-color: #2ecc71;
+}
+
+/* botão NICOLE */
+
+#button8 {
+  background-color: #3498db;
+} 
+
+#button9 {
+  background-color: #f30ce7;
 }
 
 .selected {
