@@ -56,7 +56,7 @@ main p {
 }
 
 .sculpinicio{
-  background-color: #fff;
+  background-color: #faa4fa;
   border-radius: 5px;
   text-align: center;
   margin-top: 20px;
@@ -241,11 +241,11 @@ img {
 /* botão Elisa */
 
 #button1 {
-    background-color: #3498db;
+    background-color: #f30ce7;
 } 
 
 #button2 {
-    background-color: #e74c3c;
+    background-color: #e6ff03;
 }
 
 #button3 {
@@ -259,7 +259,7 @@ img {
 } 
 
 #button6 {
-  background-color: #e74c3c;
+  background-color: #f30ce7;
 }
 
 #button7 {
@@ -269,11 +269,14 @@ img {
 /* botão NICOLE */
 
 #button8 {
-  background-color: #3498db;
+  background-color: #2ecc71;
 } 
 
 #button9 {
   background-color: #f30ce7;
+}
+#button10 {
+  background-color: #e6ff03;
 }
 
 .selected {
